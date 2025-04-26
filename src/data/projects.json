@@ -1,0 +1,52 @@
+
+  
+
+[
+  {
+    "id": 1,
+    "image": "/projects/excel.png",
+    "title": "Electric Vechile Analysis",
+    "description": "I designed a comprehensive dashboard to analyze Electric vehicles data ",
+    "demoLink": "",
+    "githubLink": "https://github.com/kamalnayanverma",
+    "techStack": ["React.js", "Node.js", "JavaScript", "CSS3"],
+    "features": [
+      "Interactive menu and gallery",
+      "Cart and checkout system",
+      "Reservation booking",
+      "Contact form",
+      "Responsive UI"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/projects/uber.png",
+    "title": "Uber Trip Analysis",
+    "description": "I designed a comprehensive dashboard to analyze to analyze uber trip analysis",
+    "demoLink": "",
+    "githubLink": "https://github.com/kamalnayanverma",
+    "techStack": ["HTML5", "CSS3", "JavaScript"],
+    "features": [
+      "Chef profile listings",
+      "Simple booking interface",
+      "Menu customization",
+      "Mobile responsive design"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/projects/heart.png",
+    "title": "Heart  Disease Prediction",
+    "description": " I analyzed the Heart Disease dataset using multiple machine learning algorithms to compare their performance and gain insights into model behavior. ",
+    "demoLink": "",
+    "githubLink": "https://github.com/kamalnayanverma",
+    "techStack": ["React.js", "OpenWeatherMap API", "JavaScript", "CSS3"],
+    "features": [
+      "Live weather updates",
+      "5-day forecast",
+      "Location-based search",
+      "Clean, responsive design"
+    ]
+  }
+]
+

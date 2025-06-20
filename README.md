@@ -5,7 +5,7 @@ Welcome to my portfolio! This website showcases my skills, projects, and experie
 ## Demo
 
 You can view the live portfolio at:  
-[Ayush Portfolio]((https://my-portfolio-kamal.vercel.app/))
+[Ayush Portfolio]((https://my-portfolio-kamal.vercel.app/)) 
 
 ## Features
 
